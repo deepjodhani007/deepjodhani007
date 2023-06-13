@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFlnqXsnuI/c-ajRD2Dr2DIWgk_E-gIJA/view?utm_content=DAFlnqXsnuI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)]
 <h1 align="center">Hi 👋, I'm Deep Jodhani</h1>
 <h3 align="center">Delivering Fast and Fluid User Experiences with Flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e472m343e0k23x50rv4sl89ghsmzuix8r9yycsj15pf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
